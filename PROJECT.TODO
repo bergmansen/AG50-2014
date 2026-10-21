@@ -1,5 +1,15 @@
 Kymco Agility:
     - info/engine/139qmb/crankcase/tubes/BREATHER.MD
     - info/engine/139qmb/carb/overflow/TUBE.MD
+    - info/engine/139qmb/variator/clutch/WHEEL.MD
+    - info/engine/139qmb/variator/clutch/BELL.MD
+    - info/engine/139qmb/variator/weights/ROLLERS.MD
+    - info/engine/139qmb/variator/variator/VARIATOR.MD
+    - info/engine/139qmb/variator/driven/FACE.MD
+    - info/engine/139qmb/variator/driven/BELT.MD
+    - info/engine/139qmb/variator/bus/BUS.MD
+
+    - info/engine/139qmb/variator/spring/TORQUE.MD
+
     - info/fuel/139qmb/type/FUEL.MD
     - info/fuel/139qmb/hoses/HFUEL.MD
