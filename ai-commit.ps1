@@ -7,7 +7,7 @@ $apiKey = $env:GROQ_API_KEY
 $model = if ($env:GROQ_MODEL) {
     $env:GROQ_MODEL
 } else {
-    "openai/gpt-oss-20b"
+    "openai/gpt-oss-120b"
 }
 $apiUrl = "https://api.groq.com/openai/v1/chat/completions"
 
@@ -37,7 +37,9 @@ if ($diff.Length -gt 10000) {
 $payload = @{
     model = $model
     temperature = 0
-    max_tokens = 256
+    max_tokens = 1024
+    include_reasoning = $false
+    reasoning_effort = "low"
     messages = @(
         @{
             role = "system"
