@@ -1,3 +1,4 @@
+git add .
 
 $ErrorActionPreference = "Stop"
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
@@ -130,7 +131,7 @@ if ($answer -match '^[Ee]') {
 }
 
 git commit -m $message
-
+git push
 if ($LASTEXITCODE -ne 0) {
     Write-Host "Git commit failed." -ForegroundColor Red
     exit 1
