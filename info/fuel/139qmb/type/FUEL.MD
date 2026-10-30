@@ -13,6 +13,6 @@ For this reason, using E5 petrol is recommended to help protect the fuel system 
 
 ### Important Note
 
-Always check the fuel requirements in the official Kymco owner's manual for the specific model year and engine version. Fuel compatibility is particularly important for small carbureted engines, where deteriorating fuel-system components can cause problems with fuel delivery and engine operation.
+Always check the fuel requirements in the official engine, for the specific model year and engine version. Fuel compatibility is particularly important for small carbureted engines, where deteriorating fuel-system components can cause problems with fuel delivery and engine operation.
 
 **Overall recommendation:** E5 98 RON is the preferred fuel choice for this engine to help reduce ethanol-related deterioration of fuel-system components and support long-term reliability.
