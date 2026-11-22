@@ -3,48 +3,1052 @@ Kymco Agility 50 — Documentation TODO
 
 ENGINE (139QMB)
 ---------------
+
+[ ] Engine assembly
+    [ ] Engine specifications
+    [ ] Engine identification
+    [ ] Engine mounting points
+    [ ] Engine mounting bolts
+    [ ] Engine mount bracket
+    [ ] Engine mount bushings
+
 [ ] Crankcase
+    [ ] Left crankcase half
+    [ ] Right crankcase half
+    [ ] Crankcase gasket
+    [ ] Crankcase bolts
+    [ ] Crankcase dowel pins
+    [ ] Crankcase oil seals
+    [ ] Crankcase bearings
     [x] Breather tube
-        -> info/engine/139qmb/crankcase/tubes/BREATHER.MD
+    [ ] Breather connections
+    [ ] Oil passages
+    [ ] Oil drain plug
+    [ ] Oil drain plug washer
+
+[ ] Crankshaft assembly
+    [ ] Crankshaft
+    [ ] Connecting rod
+    [ ] Connecting rod bearing
+    [ ] Crankshaft bearings
+    [ ] Crankshaft oil seals
+    [ ] Crankshaft webs
+    [ ] Crankshaft lubrication
+    [ ] Crankshaft specifications
+
+[ ] Piston assembly
+    [ ] Piston
+    [ ] Piston rings
+    [ ] Compression ring
+    [ ] Oil control ring
+    [ ] Piston pin
+    [ ] Piston pin circlips
+    [ ] Piston skirt
+    [ ] Piston crown
+    [ ] Piston specifications
+
+[ ] Cylinder assembly
+    [ ] Cylinder
+    [ ] Cylinder bore
+    [ ] Cylinder head
+    [ ] Cylinder head gasket
+    [ ] Cylinder base gasket
+    [ ] Cylinder studs
+    [ ] Cylinder nuts
+    [ ] Cylinder cooling fins
+    [ ] Cylinder specifications
+
+[ ] Cylinder head
+    [ ] Cylinder head assembly
+    [ ] Combustion chamber
+    [ ] Intake port
+    [ ] Exhaust port
+    [ ] Valve seats
+    [ ] Valve guides
+    [ ] Valve seals
+    [ ] Cylinder head cover
+    [ ] Cylinder head cover gasket
+    [ ] Cylinder head bolts
+    [ ] Cylinder head oil passages
+
+[ ] Valve train
+    [ ] Intake valve
+    [ ] Exhaust valve
+    [ ] Intake valve spring
+    [ ] Exhaust valve spring
+    [ ] Valve spring retainers
+    [ ] Valve spring seats
+    [ ] Valve stem seals
+    [ ] Valve keepers
+    [ ] Rocker arms
+    [ ] Rocker arm shafts
+    [ ] Rocker arm bearings
+    [ ] Valve adjustment screws
+    [ ] Valve adjustment locknuts
+    [ ] Valve clearances
+    [ ] Valve timing
+
+[ ] Camshaft system
+    [ ] Camshaft
+    [ ] Camshaft lobes
+    [ ] Camshaft bearings
+    [ ] Camshaft sprocket
+    [ ] Camshaft sprocket bolts
+    [ ] Timing chain
+    [ ] Timing chain guides
+    [ ] Timing chain tensioner
+    [ ] Timing chain tensioner gasket
+    [ ] Timing chain tensioner spring
+    [ ] Timing marks
+    [ ] Camshaft timing procedure
+
+[ ] Oil system
+    [ ] Engine oil
+    [ ] Oil specifications
+    [ ] Oil capacity
+    [ ] Oil pump
+    [ ] Oil pump drive
+    [ ] Oil pump gears
+    [ ] Oil pump housing
+    [ ] Oil pump gasket
+    [ ] Oil pickup
+    [ ] Oil pickup screen
+    [ ] Oil passages
+    [ ] Oil distribution
+    [ ] Oil splash lubrication
+    [ ] Oil seals
+    [ ] Oil leakage points
+    [ ] Oil change procedure
+
+[ ] Starting system
+    [ ] Kickstarter shaft
+    [ ] Kickstarter lever
+    [ ] Kickstarter return spring
+    [ ] Kickstarter gear
+    [ ] Kickstarter pinion
+    [ ] Kickstarter bushings
+    [ ] Kickstarter ratchet
+    [ ] Kickstarter mechanism
+    [ ] Electric starter motor
+    [ ] Starter motor mounting bolts
+    [ ] Starter reduction gears
+    [ ] Starter gear
+    [ ] Starter clutch
+    [ ] Starter one-way bearing
+
+[ ] Engine cooling
+    [ ] Cooling system type
+    [ ] Cooling fan
+    [ ] Cooling fan housing
+    [ ] Cooling fan cover
+    [ ] Cooling shroud
+    [ ] Cylinder cooling airflow
+    [ ] Cylinder head cooling airflow
+    [ ] Air intake cooling duct
+    [ ] Cooling duct fasteners
+    [ ] Cooling airflow direction
+
+[ ] Engine fasteners
+    [ ] Crankcase bolts
+    [ ] Cylinder bolts
+    [ ] Cylinder head bolts
+    [ ] Camshaft bolts
+    [ ] Valve cover bolts
+    [ ] Starter bolts
+    [ ] Oil drain bolts
+    [ ] Engine mounting bolts
+    [ ] Fastener specifications
+    [ ] Torque specifications
+
+
+CARBURETOR & INTAKE SYSTEM
+---------------------------
 
 [ ] Carburetor
+    [ ] Carburetor model
+    [ ] Carburetor body
+    [ ] Carburetor specifications
+    [ ] Carburetor mounting
+    [ ] Carburetor gasket
+    [ ] Carburetor mounting bolts
+    [ ] Carburetor inlet
+    [ ] Carburetor outlet
     [x] Overflow tube
-        -> info/engine/139qmb/carb/overflow/TUBE.MD
+    [ ] Overflow outlet
+    [ ] Drain tube
+    [ ] Drain screw
+    [ ] Drain screw seal
 
-[ ] CVT / Transmission
-    [ ] Variator
-        [ ] Variator assembly
-            -> info/engine/139qmb/variator/variator/VARIATOR.MD
-        [ ] Roller weights
-            -> info/engine/139qmb/variator/weights/ROLLERS.MD
+[ ] Fuel metering
+    [ ] Main jet
+    [ ] Pilot jet
+    [ ] Needle jet
+    [ ] Jet needle
+    [ ] Needle clip
+    [ ] Needle holder
+    [ ] Emulsion tube
+    [ ] Float
+    [ ] Float pin
+    [ ] Float needle valve
+    [ ] Float valve seat
+    [ ] Float bowl
+    [ ] Float bowl gasket
+    [ ] Float bowl screws
 
-    [ ] Clutch
-        [ ] Clutch wheel
-            -> info/engine/139qmb/variator/clutch/WHEEL.MD
-        [ ] Clutch bell
-            -> info/engine/139qmb/variator/clutch/BELL.MD
+[ ] Carburetor controls
+    [ ] Throttle slide
+    [ ] Throttle slide spring
+    [ ] Throttle slide cap
+    [ ] Throttle cable
+    [ ] Throttle cable adjuster
+    [ ] Throttle cable routing
+    [ ] Throttle return mechanism
+    [ ] Choke system
+    [ ] Automatic enricher
+    [ ] Enricher connector
+    [ ] Enricher mounting
+    [ ] Enricher seal
 
-    [ ] Driven pulley
-        [ ] Driven face
-            -> info/engine/139qmb/variator/driven/FACE.MD
-        [ ] Drive belt
-            -> info/engine/139qmb/variator/driven/BELT.MD
+[ ] Carburetor adjustment
+    [ ] Idle speed adjustment
+    [ ] Idle mixture adjustment
+    [ ] Float height
+    [ ] Main jet sizing
+    [ ] Pilot jet sizing
+    [ ] Needle position
+    [ ] Carburetor tuning
+    [ ] Carburetor troubleshooting
 
-    [ ] Torque system
-        [ ] Torque spring
-            -> info/engine/139qmb/variator/spring/TORQUE.MD
-
-    [ ] Bushings / Spacers
-        [ ] Variator bushing
-            -> info/engine/139qmb/variator/bus/BUS.MD
+[ ] Intake system
+    [ ] Air filter
+    [ ] Air filter element
+    [ ] Air filter housing
+    [ ] Air filter cover
+    [ ] Air filter cover screws
+    [ ] Air filter sealing
+    [ ] Air filter inlet
+    [ ] Air intake tube
+    [ ] Intake duct
+    [ ] Intake snorkel
+    [ ] Airbox drain
+    [ ] Airbox drain plug
+    [ ] Airbox mounting
+    [ ] Intake manifold
+    [ ] Intake manifold gasket
+    [ ] Intake manifold bolts
+    [ ] Intake manifold clamps
+    [ ] Intake manifold rubber
+    [ ] Vacuum ports
+    [ ] Vacuum hoses
+    [ ] Vacuum hose connections
 
 
 FUEL SYSTEM
 -----------
+
 [ ] Fuel
     [x] Fuel type
-        -> info/fuel/139qmb/type/FUEL.MD
+    [ ] Fuel specifications
+    [ ] Fuel octane requirements
+    [ ] Fuel compatibility
 
-    [x] Fuel hoses
+[ ] Fuel tank
+    [ ] Fuel tank
+    [ ] Fuel tank mounting
+    [ ] Fuel tank mounting bolts
+    [ ] Fuel tank brackets
+    [ ] Fuel tank internal structure
+    [ ] Fuel tank capacity
+    [ ] Fuel tank filler
+    [ ] Fuel tank cap
+    [ ] Fuel tank cap seal
+    [ ] Fuel tank vent
+    [ ] Fuel tank vent hose
+
+[ ] Fuel delivery
+    [ ] Fuel outlet
+    [ ] Fuel tap
+    [ ] Vacuum fuel tap
+    [ ] Fuel tap diaphragm
+    [ ] Fuel tap filter
+    [ ] Fuel filter
+    [ ] Fuel filter housing
+    [ ] Fuel filter direction
+    [ ] Fuel hoses
         [ ] Fuel hose
             -> info/fuel/139qmb/hoses/HFUEL.MD
+    [ ] Fuel hose clamps
+    [ ] Fuel hose connectors
+    [ ] Fuel hose routing
+    [ ] Fuel hose diameter
+    [ ] Fuel hose material
+    [ ] Fuel flow
+
+[ ] Fuel system maintenance
+    [ ] Fuel filter replacement
+    [ ] Fuel hose inspection
+    [ ] Fuel tank cleaning
+    [ ] Fuel tap inspection
+    [ ] Carburetor fuel supply troubleshooting
+
+
+CVT / TRANSMISSION
+------------------
+
+[ ] CVT housing
+    [ ] Transmission housing
+    [ ] CVT cover
+    [ ] CVT cover gasket
+    [ ] CVT cover bolts
+    [ ] CVT cover dowels
+    [ ] CVT ventilation
+    [ ] CVT cooling airflow
+    [ ] CVT dust protection
+
+[ ] Variator
+    [ ] Variator assembly
+        -> info/engine/139qmb/variator/variator/VARIATOR.MD
+    [ ] Variator boss
+        -> info/engine/139qmb/variator/bus/BUS.MD
+    [ ] Variator drive face
+    [ ] Variator fixed face
+    [ ] Variator movable face
+    [ ] Variator ramp plate
+    [ ] Variator guides
+    [ ] Variator guide pins
+    [ ] Roller weights
+        -> info/engine/139qmb/variator/weights/ROLLERS.MD
+    [ ] Roller weight dimensions
+    [ ] Roller weight specifications
+    [ ] Roller weight orientation
+    [ ] Variator nut
+    [ ] Variator washer
+    [ ] Variator installation
+
+[ ] Clutch
+    [ ] Centrifugal clutch assembly
+    [ ] Clutch shoes
+    [ ] Clutch shoe lining
+    [ ] Clutch shoe springs
+    [ ] Clutch shoe pivot pins
+    [ ] Clutch backing plate
+    [ ] Clutch assembly
+    [ ] Clutch wheel
+        -> info/engine/139qmb/variator/clutch/WHEEL.MD
+    [ ] Clutch bell
+        -> info/engine/139qmb/variator/clutch/BELL.MD
+    [ ] Clutch bell mounting nut
+    [ ] Clutch bell dimensions
+    [ ] Clutch engagement
+    [ ] Clutch inspection
+
+[ ] Driven pulley
+    [ ] Driven pulley assembly
+    [ ] Driven pulley fixed face
+    [ ] Driven pulley movable face
+    [ ] Driven face
+        -> info/engine/139qmb/variator/driven/FACE.MD
+    [ ] Driven pulley bearings
+    [ ] Driven pulley bushings
+    [ ] Driven pulley oil seals
+    [ ] Torque driver
+    [ ] Torque driver grooves
+    [ ] Torque driver pins
+    [ ] Torque driver guides
+    [ ] Torque driver grease
+    [ ] Torque driver seals
+
+[ ] Torque system
+    [ ] Torque spring
+        -> info/engine/139qmb/variator/spring/TORQUE.MD
+    [ ] Torque spring specifications
+    [ ] Torque spring preload
+    [ ] Torque spring seat
+    [ ] Torque spring retainer
+
+[ ] Drive belt
+    [ ] Drive belt
+        -> info/engine/139qmb/variator/driven/BELT.MD
+    [ ] Belt specifications
+    [ ] Belt width
+    [ ] Belt length
+    [ ] Belt angle
+    [ ] Belt material
+    [ ] Belt wear
+    [ ] Belt installation direction
+    [ ] Belt replacement
+
+[ ] CVT maintenance
+    [ ] CVT inspection
+    [ ] CVT cleaning
+    [ ] CVT lubrication requirements
+    [ ] CVT torque specifications
+    [ ] CVT troubleshooting
+    [ ] CVT tuning
+
+
+FINAL DRIVE
+-----------
+
+[ ] Reduction gearbox
+    [ ] Gearbox housing
+    [ ] Gearbox cover
+    [ ] Gearbox gasket
+    [ ] Gearbox oil
+    [ ] Gearbox oil specifications
+    [ ] Gearbox oil capacity
+    [ ] Gearbox oil drain plug
+    [ ] Gearbox oil filler plug
+    [ ] Gearbox oil seals
+    [ ] Gearbox bearings
+
+[ ] Transmission gears
+    [ ] Primary drive gear
+    [ ] Primary driven gear
+    [ ] Secondary drive gear
+    [ ] Secondary driven gear
+    [ ] Gear shafts
+    [ ] Gear teeth
+    [ ] Gear ratios
+    [ ] Gear spacers
+    [ ] Gear washers
+    [ ] Gear retaining clips
+
+[ ] Final drive
+    [ ] Final drive shaft
+    [ ] Output shaft
+    [ ] Rear wheel drive connection
+    [ ] Final drive bearings
+    [ ] Final drive seals
+    [ ] Final drive assembly
+    [ ] Final drive inspection
+
+
+IGNITION SYSTEM
+---------------
+
+[ ] Ignition
+    [ ] Ignition system type
+    [ ] Ignition coil
+    [ ] Ignition coil mounting
+    [ ] Ignition coil connector
+    [ ] Spark plug
+    [ ] Spark plug specifications
+    [ ] Spark plug heat range
+    [ ] Spark plug gap
+    [ ] Spark plug cap
+    [ ] Spark plug wire
+    [ ] Ignition timing
+
+[ ] CDI / ECU
+    [ ] CDI unit
+    [ ] CDI specifications
+    [ ] CDI mounting
+    [ ] CDI connector
+    [ ] CDI wiring
+    [ ] Ignition control
+    [ ] Rev limiter
+    [ ] CDI troubleshooting
+
+[ ] Trigger system
+    [ ] Pickup coil
+    [ ] Pickup coil mounting
+    [ ] Pickup coil gap
+    [ ] Pickup coil wiring
+    [ ] Trigger signal
+    [ ] Flywheel trigger
+
+[ ] Ignition maintenance
+    [ ] Spark plug inspection
+    [ ] Spark plug replacement
+    [ ] Ignition troubleshooting
+
+
+ELECTRICAL SYSTEM
+-----------------
+
+[ ] Electrical power
+    [ ] Battery
+    [ ] Battery specifications
+    [ ] Battery voltage
+    [ ] Battery capacity
+    [ ] Battery terminals
+    [ ] Battery cables
+    [ ] Battery mounting
+    [ ] Battery box
+    [ ] Battery fuse
+    [ ] Main fuse
+    [ ] Fuse holder
+    [ ] Fuse specifications
+
+[ ] Charging system
+    [ ] Stator
+    [ ] Stator windings
+    [ ] Stator mounting
+    [ ] Stator wiring
+    [ ] Flywheel magneto
+    [ ] Flywheel
+    [ ] Flywheel nut
+    [ ] Flywheel key
+    [ ] Rectifier
+    [ ] Regulator
+    [ ] Regulator/rectifier
+    [ ] Charging voltage
+    [ ] Charging circuit
+
+[ ] Wiring
+    [ ] Main wiring harness
+    [ ] Engine wiring harness
+    [ ] Ground cables
+    [ ] Ground points
+    [ ] Connectors
+    [ ] Connector seals
+    [ ] Wiring clips
+    [ ] Wiring sleeves
+    [ ] Wiring routing
+    [ ] Wiring diagrams
+    [ ] Electrical connectors
+    [ ] Electrical troubleshooting
+
+[ ] Switches
+    [ ] Ignition switch
+    [ ] Starter switch
+    [ ] Kill switch
+    [ ] Brake switches
+    [ ] Turn signal switch
+    [ ] High/low beam switch
+    [ ] Horn switch
+    [ ] Switch wiring
+
+[ ] Lighting
+    [ ] Headlight
+    [ ] Headlight bulb
+    [ ] Headlight housing
+    [ ] Headlight lens
+    [ ] Headlight adjustment
+    [ ] Front position light
+    [ ] Rear light
+    [ ] Tail light
+    [ ] Brake light
+    [ ] Brake light bulb
+    [ ] Turn signals
+    [ ] Turn signal bulbs
+    [ ] Turn signal housings
+    [ ] Turn signal lenses
+    [ ] License plate light
+    [ ] Lighting wiring
+
+[ ] Instruments
+    [ ] Dashboard
+    [ ] Speedometer
+    [ ] Speedometer cable
+    [ ] Speedometer drive
+    [ ] Fuel gauge
+    [ ] Fuel sender
+    [ ] Indicator lights
+    [ ] Instrument wiring
+
+[ ] Electrical accessories
+    [ ] Horn
+    [ ] Horn mounting
+    [ ] Horn wiring
+    [ ] Starter relay
+    [ ] Starter relay wiring
+    [ ] Starter relay connector
+
+
+EXHAUST SYSTEM
+--------------
+
+[ ] Exhaust assembly
+    [ ] Exhaust manifold
+    [ ] Exhaust port
+    [ ] Exhaust gasket
+    [ ] Exhaust studs
+    [ ] Exhaust nuts
+    [ ] Exhaust pipe
+    [ ] Exhaust pipe mounting
+    [ ] Exhaust bracket
+    [ ] Exhaust mounting bolts
+    [ ] Exhaust silencer
+    [ ] Silencer internal structure
+    [ ] Silencer cover
+    [ ] Heat shield
+    [ ] Heat shield bolts
+    [ ] Exhaust system material
+    [ ] Exhaust system dimensions
+
+[ ] Exhaust maintenance
+    [ ] Exhaust leakage
+    [ ] Exhaust corrosion
+    [ ] Exhaust mounting inspection
+    [ ] Exhaust noise
+    [ ] Exhaust cleaning
+    [ ] Exhaust performance
+
+
+FRAME & CHASSIS
+---------------
+
+[ ] Frame
+    [ ] Main frame
+    [ ] Frame identification
+    [ ] Frame material
+    [ ] Frame dimensions
+    [ ] Frame welds
+    [ ] Frame mounting points
+    [ ] Frame brackets
+    [ ] Engine mounting point
+    [ ] Steering head
+    [ ] Steering head bearings
+    [ ] Steering head bearing races
+    [ ] Steering head seals
+    [ ] Frame inspection
+
+[ ] Engine mounting
+    [ ] Engine hanger
+    [ ] Engine mounting shaft
+    [ ] Engine mounting bolts
+    [ ] Engine mounting nuts
+    [ ] Engine mounting bushings
+    [ ] Engine mounting spacers
+    [ ] Engine mounting washers
+
+[ ] Center stand
+    [ ] Center stand
+    [ ] Center stand pivot
+    [ ] Center stand spring
+    [ ] Center stand stopper
+    [ ] Center stand rubber
+    [ ] Center stand mounting
+
+[ ] Side stand
+    [ ] Side stand
+    [ ] Side stand pivot
+    [ ] Side stand spring
+    [ ] Side stand stopper
+    [ ] Side stand switch (if fitted)
+
+[ ] Body mounting
+    [ ] Body mounting brackets
+    [ ] Body mounting bolts
+    [ ] Body mounting clips
+    [ ] Rubber mounts
+    [ ] Spacers
+    [ ] Washers
+
+
+FRONT SUSPENSION & STEERING
+---------------------------
+
+[ ] Front fork
+    [ ] Fork assembly
+    [ ] Fork tubes
+    [ ] Fork lowers
+    [ ] Fork springs
+    [ ] Fork seals
+    [ ] Fork dust seals
+    [ ] Fork bushings
+    [ ] Fork oil (if applicable)
+    [ ] Fork oil specifications
+    [ ] Fork oil capacity
+    [ ] Fork mounting
+    [ ] Fork inspection
+
+[ ] Steering
+    [ ] Handlebar
+    [ ] Handlebar mounting
+    [ ] Handlebar clamps
+    [ ] Steering stem
+    [ ] Steering bearings
+    [ ] Steering bearing preload
+    [ ] Steering lock
+    [ ] Steering stops
+    [ ] Steering alignment
+
+[ ] Front controls
+    [ ] Throttle grip
+    [ ] Throttle tube
+    [ ] Throttle housing
+    [ ] Throttle cable
+    [ ] Throttle cable adjuster
+    [ ] Throttle cable lubrication
+    [ ] Left grip
+    [ ] Grip material
+    [ ] Grip installation
+    [ ] Brake lever
+    [ ] Brake lever pivot
+    [ ] Brake lever bolt
+    [ ] Brake lever return
+
+[ ] Front suspension maintenance
+    [ ] Fork inspection
+    [ ] Fork seal inspection
+    [ ] Suspension movement
+    [ ] Suspension alignment
+    [ ] Suspension troubleshooting
+
+
+REAR SUSPENSION
+---------------
+
+[ ] Rear shock
+    [ ] Rear shock absorber
+    [ ] Shock spring
+    [ ] Shock spring preload
+    [ ] Shock damping
+    [ ] Shock upper mount
+    [ ] Shock lower mount
+    [ ] Shock mounting bolts
+    [ ] Shock bushings
+    [ ] Shock inspection
+
+[ ] Rear suspension components
+    [ ] Swingarm (if applicable)
+    [ ] Swingarm pivot
+    [ ] Swingarm bushings
+    [ ] Swingarm bearings
+    [ ] Swingarm seals
+    [ ] Suspension linkage (if fitted)
+    [ ] Suspension spacers
+    [ ] Suspension bolts
+
+
+BRAKING SYSTEM
+--------------
+
+[ ] Front brake
+    [ ] Front brake type
+    [ ] Front brake lever
+    [ ] Front brake cable (if applicable)
+    [ ] Front brake hose (if applicable)
+    [ ] Front brake caliper
+    [ ] Caliper mounting bolts
+    [ ] Caliper piston
+    [ ] Caliper seals
+    [ ] Brake pads
+    [ ] Brake pad retaining pin
+    [ ] Brake pad spring
+    [ ] Front brake disc (if applicable)
+    [ ] Front brake rotor
+    [ ] Brake rotor bolts
+    [ ] Brake drum (if applicable)
+    [ ] Brake shoes (if applicable)
+    [ ] Brake shoe springs
+    [ ] Brake cam
+    [ ] Brake camshaft
+    [ ] Brake arm
+    [ ] Brake arm return spring
+    [ ] Brake adjustment
+
+[ ] Rear brake
+    [ ] Rear brake type
+    [ ] Rear brake lever
+    [ ] Rear brake cable
+    [ ] Rear brake cable adjuster
+    [ ] Rear brake cable routing
+    [ ] Rear brake drum
+    [ ] Rear brake shoes
+    [ ] Rear brake shoe springs
+    [ ] Rear brake cam
+    [ ] Rear brake camshaft
+    [ ] Rear brake arm
+    [ ] Rear brake arm return spring
+    [ ] Rear brake adjustment
+
+[ ] Brake maintenance
+    [ ] Brake inspection
+    [ ] Brake pad inspection
+    [ ] Brake shoe inspection
+    [ ] Brake disc inspection
+    [ ] Brake drum inspection
+    [ ] Brake cable inspection
+    [ ] Brake fluid (if applicable)
+    [ ] Brake fluid specifications
+    [ ] Brake bleeding (if applicable)
+    [ ] Brake troubleshooting
+
+
+WHEELS & TYRES
+---------------
+
+[ ] Front wheel
+    [ ] Front wheel rim
+    [ ] Front wheel hub
+    [ ] Front wheel bearings
+    [ ] Front wheel bearing seals
+    [ ] Front axle
+    [ ] Front axle nut
+    [ ] Front axle spacers
+    [ ] Front wheel balancing
+    [ ] Front wheel alignment
+
+[ ] Rear wheel
+    [ ] Rear wheel
+    [ ] Rear wheel rim
+    [ ] Rear wheel hub
+    [ ] Rear wheel bearings (if applicable)
+    [ ] Rear wheel mounting
+    [ ] Rear wheel nut
+    [ ] Rear wheel washers
+    [ ] Rear wheel spacers
+    [ ] Rear wheel alignment
+
+[ ] Tyres
+    [ ] Front tyre
+    [ ] Rear tyre
+    [ ] Tyre specifications
+    [ ] Tyre dimensions
+    [ ] Tyre type
+    [ ] Tyre construction
+    [ ] Tyre load rating
+    [ ] Tyre speed rating
+    [ ] Tyre pressure
+    [ ] Tyre tread
+    [ ] Tyre wear
+    [ ] Tyre replacement
+    [ ] Tyre valves
+    [ ] Valve caps
+    [ ] Tube (if applicable)
+    [ ] Tubeless system (if applicable)
+
+
+BODYWORK & EXTERIOR
+--------------------
+
+[ ] Front bodywork
+    [ ] Front fairing
+    [ ] Front apron
+    [ ] Front panel
+    [ ] Front mudguard
+    [ ] Front mudguard mounting
+    [ ] Front fairing fasteners
+
+[ ] Side bodywork
+    [ ] Left side panel
+    [ ] Right side panel
+    [ ] Side panel mounting
+    [ ] Side panel clips
+    [ ] Side panel screws
+    [ ] Lower side panels
+    [ ] Floorboard side panels
+
+[ ] Rear bodywork
+    [ ] Rear fairing
+    [ ] Rear panel
+    [ ] Rear mudguard
+    [ ] Rear mudguard mounting
+    [ ] Rear body mounting
+
+[ ] Floorboard
+    [ ] Floorboard
+    [ ] Floorboard rubber
+    [ ] Floorboard trim
+    [ ] Floorboard mounting
+    [ ] Floorboard fasteners
+
+[ ] Cosmetic components
+    [ ] Badges
+    [ ] Emblems
+    [ ] Stickers
+    [ ] Decals
+    [ ] Reflectors
+    [ ] Paint
+    [ ] Colour codes
+    [ ] Plastic material
+    [ ] Surface finish
+
+
+SEAT & STORAGE
+--------------
+
+[ ] Seat
+    [ ] Seat assembly
+    [ ] Seat base
+    [ ] Seat foam
+    [ ] Seat cover
+    [ ] Seat hinges
+    [ ] Seat hinge bolts
+    [ ] Seat latch
+    [ ] Seat lock
+    [ ] Seat lock cable
+    [ ] Seat lock mechanism
+    [ ] Seat mounting
+
+[ ] Storage
+    [ ] Under-seat compartment
+    [ ] Storage box
+    [ ] Storage box mounting
+    [ ] Storage box drain
+    [ ] Storage box cover
+    [ ] Helmet storage dimensions
+
+[ ] Fuel access
+    [ ] Fuel filler access
+    [ ] Fuel filler cover
+    [ ] Fuel filler hinge
+    [ ] Fuel filler lock
+    [ ] Fuel filler cable
+
+
+CONTROLS & USER INTERFACE
+-------------------------
+
+[ ] Hand controls
+    [ ] Left handlebar grip
+    [ ] Right handlebar grip
+    [ ] Throttle
+    [ ] Throttle cable
+    [ ] Front brake lever
+    [ ] Rear brake lever
+    [ ] Switch assemblies
+    [ ] Switch housings
+    [ ] Switch buttons
+    [ ] Switch wiring
+
+[ ] Foot controls
+    [ ] Footrests
+    [ ] Footrest brackets
+    [ ] Passenger footrests (if fitted)
+    [ ] Passenger footrest springs
+    [ ] Floorboard
+
+[ ] Locks
+    [ ] Ignition lock
+    [ ] Steering lock
+    [ ] Seat lock
+    [ ] Fuel cap lock
+    [ ] Key
+    [ ] Key specifications
+    [ ] Lock mechanisms
+
+
+CABLES, HOSES & ROUTING
+------------------------
+
+[ ] Cables
+    [ ] Throttle cable
+    [ ] Front brake cable (if applicable)
+    [ ] Rear brake cable
+    [ ] Speedometer cable
+    [ ] Seat lock cable
+    [ ] Cable adjusters
+    [ ] Cable ends
+    [ ] Cable routing
+    [ ] Cable lubrication
+    [ ] Cable inspection
+
+[ ] Hoses
+    [ ] Fuel hose
+    [ ] Vacuum hose
+    [ ] Breather hose
+    [ ] Carburetor overflow hose
+    [ ] Carburetor drain hose
+    [ ] Airbox drain hose
+    [ ] Oil-related hoses (if fitted)
+    [ ] Hose clamps
+    [ ] Hose connectors
+    [ ] Hose routing
+    [ ] Hose material
+    [ ] Hose dimensions
+
+[ ] Routing documentation
+    [ ] Cable routing diagram
+    [ ] Hose routing diagram
+    [ ] Wiring routing diagram
+    [ ] Clip locations
+    [ ] Clamp locations
+    [ ] Frame routing points
+
+
+FASTENERS & HARDWARE
+---------------------
+
+[ ] Bolts
+    [ ] Engine bolts
+    [ ] Frame bolts
+    [ ] Body bolts
+    [ ] Brake bolts
+    [ ] Suspension bolts
+    [ ] Wheel bolts
+    [ ] Exhaust bolts
+    [ ] CVT bolts
+
+[ ] Nuts
+    [ ] Engine nuts
+    [ ] Wheel nuts
+    [ ] Variator nuts
+    [ ] Clutch nuts
+    [ ] Exhaust nuts
+
+[ ] Washers
+    [ ] Flat washers
+    [ ] Lock washers
+    [ ] Special washers
+    [ ] Spacer washers
+
+[ ] Clips
+    [ ] Circlips
+    [ ] E-clips
+    [ ] Retaining clips
+    [ ] Cable clips
+    [ ] Body clips
+
+[ ] Other hardware
+    [ ] Bearings
+    [ ] Bushings
+    [ ] Spacers
+    [ ] Dowel pins
+    [ ] Springs
+    [ ] Rubber mounts
+    [ ] Grommets
+    [ ] Seals
+    [ ] O-rings
+    [ ] Gaskets
+
+
+MAINTENANCE & SERVICE DOCUMENTATION
+----------------------------------
+
+[ ] Maintenance schedule
+[ ] Engine oil service
+[ ] Gearbox oil service
+[ ] Spark plug service
+[ ] Air filter service
+[ ] Carburetor service
+[ ] Fuel filter service
+[ ] Valve clearance inspection
+[ ] Valve adjustment
+[ ] CVT inspection
+[ ] CVT cleaning
+[ ] Variator roller replacement
+[ ] Drive belt replacement
+[ ] Clutch inspection
+[ ] Brake inspection
+[ ] Brake adjustment
+[ ] Tyre inspection
+[ ] Tyre pressure
+[ ] Battery inspection
+[ ] Battery replacement
+[ ] Electrical system inspection
+[ ] Cooling system inspection
+[ ] Exhaust inspection
+[ ] Suspension inspection
+[ ] Bearing inspection
+[ ] Cable inspection
+[ ] Hose inspection
+[ ] Fastener inspection
+[ ] Torque checks
+[ ] General inspection
+[ ] Troubleshooting guide
+[ ] Service history
+[ ] Parts replacement history
+[ ] Mileage records
+[ ] Consumables list
+[ ] Tools required
+[ ] Workshop procedures
+[ ] Technical specifications
+[ ] Torque specifications
+[ ] Wiring diagrams
+[ ] Exploded diagrams
+[ ] Parts catalogue
