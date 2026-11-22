@@ -1,0 +1,129 @@
+build/
+│
+├── PROJECT_MANAGEMENT/
+│   ├── ROADMAP/
+│   ├── MILESTONES/
+│   ├── TASKS/
+│   ├── MEETINGS/
+│   └── RISKS/
+│
+├── RESEARCH/
+│   ├── EXISTING_ENGINES/
+│   ├── ENGINE_TECHNOLOGY/
+│   ├── PATENTS/
+│   ├── TECHNICAL_PAPERS/
+│   ├── STANDARDS/
+│   └── REFERENCES/
+│
+├── REQUIREMENTS/
+│   ├── FUNCTIONAL/
+│   ├── PERFORMANCE/
+│   ├── MECHANICAL/
+│   ├── THERMAL/
+│   ├── ELECTRICAL/
+│   ├── SAFETY/
+│   └── REGULATORY/
+│
+├── ARCHITECTURE/
+│   ├── SYSTEM_OVERVIEW/
+│   ├── SUBSYSTEMS/
+│   ├── INTERFACES/
+│   ├── BLOCK_DIAGRAMS/
+│   └── SYSTEM_DEPENDENCIES/
+│
+├── DESIGN/
+│   ├── CONCEPTS/
+│   ├── PROTOTYPES/
+│   ├── CAD/
+│   ├── DRAWINGS/
+│   ├── RENDERS/
+│   └── DESIGN_REVIEWS/
+│
+├── ENGINEERING/
+│   ├── CALCULATIONS/
+│   ├── SIMULATIONS/
+│   ├── MATERIALS/
+│   ├── TOLERANCES/
+│   ├── FLUID_DYNAMICS/
+│   ├── THERMODYNAMICS/
+│   ├── STRUCTURAL_ANALYSIS/
+│   ├── VIBRATION_ANALYSIS/
+│   └── FAILURE_ANALYSIS/
+│
+├── ELECTRONICS/
+│   ├── SCHEMATICS/
+│   ├── PCB/
+│   ├── SENSORS/
+│   ├── WIRING/
+│   ├── ECU/
+│   └── SOFTWARE/
+│
+├── MANUFACTURING/
+│   ├── CNC/
+│   ├── MACHINING/
+│   ├── CASTING/
+│   ├── WELDING/
+│   ├── ADDITIVE_MANUFACTURING/
+│   ├── SUPPLIERS/
+│   └── QUALITY_CONTROL/
+│
+├── PROCUREMENT/
+│   ├── SUPPLIERS/
+│   ├── QUOTES/
+│   ├── PURCHASE_ORDERS/
+│   ├── RECEIVED_PARTS/
+│   ├── MATERIAL_STOCK/
+│   └── COST_TRACKING/
+│
+├── ASSEMBLY/
+│   ├── PROCEDURES/
+│   ├── TOOLS/
+│   ├── TORQUE_SPECIFICATIONS/
+│   ├── CLEARANCES/
+│   ├── PHOTOS/
+│   └── ASSEMBLY_RECORDS/
+│
+├── VALIDATION/
+│   ├── TEST_PLANS/
+│   ├── TEST_PROCEDURES/
+│   ├── TEST_RESULTS/
+│   ├── PERFORMANCE/
+│   ├── DURABILITY/
+│   ├── FAILURE_TESTING/
+│   └── VALIDATION_REPORTS/
+│
+├── QUALITY/
+│   ├── INSPECTION/
+│   ├── MEASUREMENT_RECORDS/
+│   ├── NONCONFORMITIES/
+│   ├── CORRECTIVE_ACTIONS/
+│   └── QUALITY_REPORTS/
+│
+├── DOCUMENTATION/
+│   ├── MANUALS/
+│   ├── TECHNICAL_DRAWINGS/
+│   ├── DATASHEETS/
+│   ├── CERTIFICATES/
+│   └── RELEASE_DOCUMENTS/
+│
+├── MAINTENANCE/
+│   ├── SERVICE_SCHEDULES/
+│   ├── INSPECTION/
+│   ├── REPLACEMENT_PARTS/
+│   └── SERVICE_HISTORY/
+│
+├── LEGAL/
+│   ├── REGULATIONS/
+│   ├── HOMOLOGATION/
+│   ├── INTELLECTUAL_PROPERTY/
+│   └── COMPLIANCE/
+│
+├── FINANCE/
+│   ├── BUDGET/
+│   ├── COST_ESTIMATES/
+│   ├── ACTUAL_EXPENDITURE/
+│   └── FINANCIAL_REPORTS/
+│
+├── BOM/
+├── TESTING/
+└── CHANGELOG.MD
