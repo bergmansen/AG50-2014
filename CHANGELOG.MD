@@ -8,13 +8,21 @@ This project follows Semantic Versioning where applicable.
 
 ## [Unreleased]
 
-Changes that have been accepted into the development branch but have not yet been included in a release.
+Changes accepted into the development branch that have not yet been included in an official project release.
 
 ### Added
-- Nothing yet.
+- Added the `build/` directory to contain documentation and specifications for custom engine builds.
+- Added the `build/ENGINEERING_CONTROL/` directory to centralise engineering procedures, project guidelines and design-control documentation.
+- Added initial placeholder documents within `build/ENGINEERING_CONTROL/` for future engineering documentation.
+- Added documentation for the original engine's crankcase breather tube.
+- Added the `shared/` directory to store reusable templates, common documentation and shared project resources.
+- Added the `CHANGELOG.MD` to improve versioning.
+- Added the `AUTHORS.MD` file to keep track of all patch senders.
+- Added the `MAINTAINERS.MD` file to notify people who maintains what sub-system.
 
 ### Changed
-- Nothing yet.
+- Restructured `PROJECT.TODO` and expanded the project task list with additional development and documentation tasks.
+- Updated the root `README.MD` to improve the project's introduction, structure and documentation.
 
 ### Fixed
 - Nothing yet.
@@ -27,7 +35,6 @@ Changes that have been accepted into the development branch but have not yet bee
 
 ### Security
 - Nothing yet.
-
 ---
 
 ## [0.0.1] - 21-10-2026
