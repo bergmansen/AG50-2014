@@ -131,7 +131,7 @@ if ($answer -match '^[Ee]') {
 }
 
 git commit -m $message
-git push
+git remote | ForEach-Object { git push $_ HEAD }
 if ($LASTEXITCODE -ne 0) {
     Write-Host "Git commit failed." -ForegroundColor Red
     exit 1
