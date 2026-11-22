@@ -1,59 +1,140 @@
-# Breather Tube
+# Crankcase Breather Tube
 
-## What is it?
+## Identification
+- Official name: Crankcase Breather Hose
+- Common name: Breather Tube
+- OEM part number: Not verified
+- Manufacturer: OEM supplier / Not verified
+- System: Engine – Crankcase Ventilation
+- Location: Connected to the crankcase ventilation outlet; typically routed towards the airbox
+- Installed on this vehicle: Yes (verify physical installation)
 
-The **crankcase breather tube** is a hose connected to the crankcase or engine ventilation system. Its purpose is to allow air, pressure fluctuations and crankcase gases to be ventilated.
+## Function
 
-In a 4-stroke engine, combustion gases can leak past the piston rings into the crankcase. This is known as **blow-by**. The breather system allows these gases to escape and helps prevent excessive pressure from building up inside the crankcase.
+The crankcase breather tube provides a ventilation path between the crankcase and the designated breather outlet or intake system.
 
-It also helps equalise internal pressure, reducing stress on oil seals, gaskets and other sealing components.
+During engine operation, pressure fluctuations occur inside the crankcase due to the movement of internal engine components. Additionally, combustion gases can leak past the piston rings into the crankcase. This phenomenon is known as blow-by.
 
-Depending on the engine design, the breather system may also route oil vapour back into the air intake, allowing it to be burned during combustion rather than released into the atmosphere.
+The breather tube allows these gases and pressure fluctuations to be managed by the crankcase ventilation system.
 
-## Why is it so important?
+It also helps prevent excessive internal pressure from accumulating, protecting oil seals, gaskets and other sealing components.
 
-The crankcase breather is essential for reliable engine operation and long-term durability.
-
-Without proper crankcase ventilation, pressure can build up inside the engine, potentially causing:
-
-- **Oil leaks:** Excessive internal pressure can force oil past crankshaft seals, gaskets and other sealing surfaces.
-- **Seal damage:** Persistent pressure can place additional stress on crankcase seals and accelerate their deterioration.
-- **Oil vapour accumulation:** Poor ventilation can allow oil vapour and gases to accumulate inside the crankcase.
-- **Increased oil consumption:** Excessive pressure or improper ventilation can contribute to oil being pushed into the intake or escaping through seals.
-- **Contamination:** A damaged, disconnected or improperly routed breather may allow dirt, water and other contaminants to enter the engine.
-- **Reduced engine reliability:** Incorrect crankcase ventilation can contribute to oil leaks, poor operation and premature component wear.
-
-A blocked, kinked, damaged or incorrectly installed breather tube can compromise the entire crankcase ventilation system.
+Depending on the ventilation design, oil vapour can also travel through the breather system and return to the air intake.
 
 ## Construction
 
-A typical breather tube is manufactured from oil-resistant rubber or another suitable flexible material. It must withstand:
+- Material: Oil-resistant rubber or suitable flexible polymer
+- Dimensions: Not measured
+- Weight: Not measured
+- Design: Flexible ventilation hose
+- Finish: Typically black
+- Internal structure: Hollow tube
+- Construction type: Flexible, single-channel hose
 
-- Engine heat
-- Oil vapour
-- Pressure fluctuations
-- Vibration
-- Ageing and environmental exposure
+## Specifications
 
-The tube must have the correct internal diameter, length and routing to ensure unrestricted ventilation.
+- OEM specifications: Not verified
+- Internal diameter: Not measured
+- External diameter: Not measured
+- Total length: Not measured
+- Wall thickness: Not measured
+- Tolerances: OEM specification required
+- Operating conditions: Engine heat, vibration, oil vapour and crankcase pressure fluctuations
+- Wear limits: Replace if cracked, hardened, swollen, damaged or obstructed
+- Pressure rating: Not verified
 
-## Maintenance and inspection
+## Interfaces & Connections
 
-The breather tube should be inspected regularly for:
+- Connected components: Crankcase ventilation outlet and designated breather destination
+- Mounting points: Crankcase connection and breather-system connection
+- Fasteners: Hose clamps or retaining fittings, depending on configuration
+- Electrical connections: None
+- Fluid / air connections: Crankcase gases, air and oil vapour
+- Routing: Must follow the original engine ventilation configuration
 
-- Cracks and deterioration
-- Loose connections
-- Kinks or obstructions
-- Oil accumulation
-- Incorrect routing
-- Signs of excessive oil leakage
+## Operation
 
-The tube must remain unobstructed and correctly connected throughout engine operation.
+During engine operation, the piston moves up and down inside the cylinder, creating pressure fluctuations within the crankcase.
 
-## Engineering requirements
+Some combustion gases may pass between the piston rings and cylinder wall, entering the crankcase.
 
-The crankcase breather system must provide sufficient ventilation under all intended operating conditions without allowing excessive oil loss or contamination.
+The ventilation system allows these gases to escape through the breather tube.
 
-The system must be designed according to the engine's operating characteristics, crankcase pressure fluctuations, oil management requirements and intended orientation.
+Depending on the engine configuration, the gases are routed back into the air intake system, where combustible vapours can be burned during combustion.
 
-**The breather tube is a small component, but its correct operation is critical to crankcase pressure management, oil retention and engine longevity.**
+This process helps maintain appropriate crankcase pressure and reduces uncontrolled oil vapour emissions.
+
+## Failure Modes
+
+| Failure | Symptoms | Cause | Consequence |
+|---|---|---|---|
+| Blocked tube | Oil leakage | Dirt or deposits | Excessive crankcase pressure |
+| Cracked tube | Oil vapour leakage | Ageing or heat | Loss of proper ventilation |
+| Disconnected tube | Oil residue around engine | Loose connection | Uncontrolled vapour release |
+| Kinked tube | Restricted ventilation | Incorrect routing | Increased pressure |
+| Hardened tube | Poor sealing | Ageing and heat | Air or vapour leakage |
+| Incorrect installation | Oil accumulation | Incorrect routing | Ventilation problems |
+
+## Inspection & Maintenance
+
+- Inspection: Check the entire tube for cracks, leaks and deterioration.
+- Maintenance: Keep the ventilation passage unobstructed.
+- Replacement interval: No verified fixed interval; replace when deteriorated or damaged.
+- Wear limits: No verified dimensional wear limits.
+- Connection inspection: Check both ends for secure attachment.
+- Routing inspection: Ensure the tube is not kinked, crushed or exposed to excessive heat.
+- Oil inspection: Check for unusual oil accumulation.
+
+## Removal & Installation
+
+- Required tools: Suitable pliers, screwdriver (depending on clamps).
+- Removal:
+  1. Allow the engine to cool.
+  2. Locate the crankcase breather connection.
+  3. Inspect the hose routing.
+  4. Release the retaining clamp if fitted.
+  5. Carefully remove the hose without damaging the connection.
+
+- Installation:
+  1. Inspect the replacement hose.
+  2. Verify its internal diameter and length.
+  3. Connect it to the original ventilation outlets.
+  4. Secure the connections.
+  5. Route the tube according to the original configuration.
+  6. Check for kinks and obstructions.
+  7. Start the engine and inspect for leaks.
+
+- Torque specifications: Not applicable to the hose itself. Use the specified torque for any threaded fittings or brackets.
+
+## Compatibility
+
+- OEM part: Original 139QMB breather configuration (exact part number not verified).
+- Aftermarket alternatives: Suitable oil-resistant crankcase ventilation hose.
+- Interchangeable parts: Only hoses with compatible internal diameter, material, temperature resistance and routing requirements.
+- Compatibility notes: Physical dimensions and connection sizes must be verified before replacement.
+
+## Engineering Notes
+
+The crankcase breather is a relatively simple component but plays an important role in engine reliability.
+
+For a future custom-engine design, the ventilation system should be evaluated according to:
+
+- Maximum crankcase pressure fluctuations.
+- Blow-by gas volume.
+- Oil vapour separation requirements.
+- Hose internal diameter.
+- Hose temperature resistance.
+- Oil resistance.
+- Routing and drainage.
+- Airbox integration.
+- Prevention of dirt and water ingress.
+
+The breather system should be designed to prevent excessive crankcase pressure without unnecessarily releasing oil vapour into the environment.
+
+## References
+
+- OEM Kymco Agility 50 service documentation: Not yet obtained.
+- OEM 139QMB parts diagram: Not yet obtained.
+- Physical inspection: Pending.
+- Component measurements: Pending.
+- Additional technical references: Pending.
