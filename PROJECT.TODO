@@ -42,9 +42,9 @@ ENGINE (139QMB)
 FUEL SYSTEM
 -----------
 [ ] Fuel
-    [ ] Fuel type
+    [x] Fuel type
         -> info/fuel/139qmb/type/FUEL.MD
 
-    [ ] Fuel hoses
+    [x] Fuel hoses
         [ ] Fuel hose
             -> info/fuel/139qmb/hoses/HFUEL.MD
